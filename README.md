@@ -1,1 +1,3 @@
-# Measuring_Causal_Impact_of_Online_Ads_on_Customer_Conversions
+# Causal Ad Impact Analysis
+
+Project for evaluating causal impact of ads using econometrics and ML.

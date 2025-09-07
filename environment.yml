@@ -1,0 +1,12 @@
+name: causal-ad-impact-analysis
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - pip:
+      - causalml
+      - pyyaml
